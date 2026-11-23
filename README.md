@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,100:1a1a2e&fontColor=FF003C&fontSize=48&height=160&width=900&text=AD%20 Automation%20Framework&section=header&animation=fadeIn" alt="Header"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,100:1a1a2e&fontColor=FF003C&fontSize=48&height=160&width=900&text=AD%20Automation%20Framework&section=header&animation=fadeIn" alt="Header"/>
 </p>
 
 ## `> tech_stack`
